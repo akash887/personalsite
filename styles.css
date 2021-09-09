@@ -119,6 +119,10 @@ a:hover
   width: 40%;
   margin:40px auto 40px auto;
 }
+.pro
+{
+  text-decoration: underline;
+}
 
 .btn {
    background: #11CDD4;
